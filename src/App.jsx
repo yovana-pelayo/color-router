@@ -43,7 +43,7 @@ export default function App() {
           <Redirect to="/rgb/192/192/192" />
         </Route>
         <ul>
-          <Link to="/rgb/192/192/192">Silver</Link>
+          <Link to="/rgb/192/192/192">Silver Coin</Link>
           <Link to="/rgb/220/20/60">Crimson</Link>
           <Link to="/rgb/147/112/219">Purple</Link>
         </ul>
